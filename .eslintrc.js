@@ -4,5 +4,8 @@ module.exports = {
     'no-console': 'off',
     'comma-dangle': 'off',
     'implicit-arrow-linebreak': 'off'
+  },
+  env: {
+    browser: true
   }
 };
